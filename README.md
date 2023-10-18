@@ -31,7 +31,7 @@ winget install -e --id Helm.Helm
 
 Clone the *'erwin-load-tests'* repository from GitHub and enter the superhero credentials in the *'getAccessToken'* function in the *'server.spec.js'* file.
 
->CAUTION:
+>[!WARNING]
 >Never push credentials!
 
 ### Lens
