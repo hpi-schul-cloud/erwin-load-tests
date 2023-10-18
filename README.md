@@ -88,4 +88,5 @@ Clone the *'erwin-load-tests'* repository from GitHub and enter the superhero cr
 
     In addition, the Grafana dashboard *'Erwin Keycloak Metrics'* was created in all instances.
 
->HINT: To simulate higher loads, you can increase the number of pods within the respective deployment. To do this, simply raise the *'replicas'* count under the *'spec'* section.
+> [!NOTE]
+> To simulate higher loads, you can increase the number of pods within the respective deployment. To do this, simply raise the *'replicas'* count under the *'spec'* section.
